@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ghoniyati Salamah - Aspiring Data Analyst
 
-<div id="header" align="right">
+<div id="header" align="justify">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdxYWlybzdiMjZmOGN6NzFjeWJ5eTJhN3A4M25pNHBhbTNsYjY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6WEZ1tOjoJuX0090sk/giphy.gif" width="400"/>
 </div>
 
