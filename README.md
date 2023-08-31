@@ -1,7 +1,7 @@
 ### Hi there! 👋
-You guys only have to remembered "NIA" as my nickname. 😄
+You guys only have to remembered **nia** as my nickname.
 
-<div id="header" align="center">
+<div id="header" align="justify">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdxYWlybzdiMjZmOGN6NzFjeWJ5eTJhN3A4M25pNHBhbTNsYjY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6WEZ1tOjoJuX0090sk/giphy.gif" width="400"/>
 </div>
 
